@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "week7_task",
+=======
+  "name": "sth",
+>>>>>>> b291994cfc2f6c09412950afbbb30314347023da
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -8,9 +12,13 @@
     "@testing-library/user-event": "^13.2.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+<<<<<<< HEAD
     "react-router-dom": "^6.23.1",
     "react-scripts": "5.0.1",
     "styled-components": "^6.1.11",
+=======
+    "react-scripts": "5.0.1",
+>>>>>>> b291994cfc2f6c09412950afbbb30314347023da
     "web-vitals": "^2.1.0"
   },
   "scripts": {
